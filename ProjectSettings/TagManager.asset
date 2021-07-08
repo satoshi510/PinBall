@@ -9,7 +9,7 @@ TagManager:
   - SmallStarTag
   - LargeStarTag
   - SmallCloudTag
-  - LargeCloud Tag
+  - LargeCloudTag
   layers:
   - Default
   - TransparentFX
